@@ -1,0 +1,41 @@
+# Geral
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# JavaScript
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.iws
+target/
+out/
+
+# C#
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
