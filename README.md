@@ -1,7 +1,18 @@
 # bittech-lab
 Capacitação em novas tecnologias com aulas teóricas, exercícios práticos e desafios. Os participantes aprenderão conceitos inovadores, aplicarão conhecimentos em situações reais e colaborarão em equipe para resolver problemas complexos, desenvolvendo habilidades técnicas e promovendo a inovação.
 
-# Instruções para Incluir Soluções
+
+# Instruções
+
+É possivel contribuir com este de duas formas:
+1. Criando desafios:
+   2. Para criar um novo desafio basta incluir um arquivo .md dentro da pasta da linguagem correspondente.
+      3. Se quizer fazer para uma linguagem que ainda não tem pasta é só adicionar a pasta seguindo o mesmo padrão das demais.
+4. Resolvendo desafios:
+   5. Você pode resolver os desafios já existentes.
+   6. A resolução do desafio pode ser feito direto nesse repositório ou em outro repositório
+      7. Caso opte por colocar o desafio em outro repositório será necessário criar um .md com a descrição de como você resolveu e o link do repositório.
+
 
 ## Passo a Passo
 
